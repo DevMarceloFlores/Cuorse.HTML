@@ -1,2 +1,0 @@
-# Cuorse.HTML
- Supersiple.dev
